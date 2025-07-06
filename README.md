@@ -3,7 +3,7 @@
 Welcome to my corner of GitHub! I’m a DevOps engineer, homelab enthusiast, and the creator of [Subnet Savy](https://subnetsavy.com)—a site dedicated to helping developers and infrastructure pros build powerful Kubernetes clusters, secure networks with Tailscale, and level up their cloud skills.  
 
 🌐 **[Visit Subnet Savy](https://subnetsavy.com)**  
-🎥 **[Watch my YouTube Tutorials](https://youtube.com/@your-channel-name)**  
+🎥 **[Watch my YouTube Tutorials](https://www.youtube.com/@SubnetSavy)**  
 📘 **[Read My Blog Posts](https://subnetsavy.com)**  
 
 ---
@@ -29,11 +29,6 @@ Step-by-step guide and configs for running Kubernetes on Raspberry Pi or virtual
 
 ### 🔐 [Tailscale Zero Trust Examples](https://subnetsavy.com/wp-content/uploads/articles/tailscale-k8s-zerotrust.html)
 Learn how to integrate Tailscale ACLs and Funnel to expose services securely.
-
----
-
-## 📊 GitHub Stats
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
 
 ---
 
