@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I’m Mike | Subnet Savy 🚀  
 
-<!--
-**subnetsavy/subnetsavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I’m a DevOps engineer, homelab enthusiast, and the creator of [Subnet Savy](https://subnetsavy.com)—a site dedicated to helping developers and infrastructure pros build powerful Kubernetes clusters, secure networks with Tailscale, and level up their cloud skills.  
 
-Here are some ideas to get you started:
+🌐 **[Visit Subnet Savy](https://subnetsavy.com)**  
+🎥 **[Watch my YouTube Tutorials](https://youtube.com/@your-channel-name)**  
+📘 **[Read My Blog Posts](https://subnetsavy.com)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Cloud:** Azure ☁️, AWS 🌐, GCP
+- **DevOps Tools:** Kubernetes, Docker, Helm, Terraform, ArgoCD
+- **Networking:** Tailscale, MetalLB, Pi-hole, WireGuard
+- **Automation:** Bash, Python, GitHub Actions
+
+---
+
+## 📂 Featured Projects
+### 🚀 [Subnet Savy: DevOps Blog & Homelab Guides](https://subnetsavy.com)
+An authority site covering:
+- Building Kubernetes clusters at home
+- Tailscale for secure zero trust networks
+- Infrastructure automation with Terraform
+- Homelab gear reviews
+
+### 🧑‍💻 [Kubernetes Home Lab Starter](https://subnetsavy.com/wp-content/uploads/articles/kubernetes-home-guide-complete.html)
+Step-by-step guide and configs for running Kubernetes on Raspberry Pi or virtualized clusters.
+
+### 🔐 [Tailscale Zero Trust Examples](https://subnetsavy.com/wp-content/uploads/articles/tailscale-k8s-zerotrust.html)
+Learn how to integrate Tailscale ACLs and Funnel to expose services securely.
+
+---
+
+## 📊 GitHub Stats
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+
+---
+
+## 🤝 Let’s Connect
+- 🌐 [Subnet Savy](https://subnetsavy.com)  
+- 📧 Email: you@example.com  
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
