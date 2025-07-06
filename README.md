@@ -39,5 +39,5 @@ Learn how to integrate Tailscale ACLs and Funnel to expose services securely.
 
 ## 🤝 Let’s Connect
 - 🌐 [Subnet Savy](https://subnetsavy.com)  
-- 📧 Email: you@example.com  
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+- 📧 Email: subnetsavy@gmail.com
+
