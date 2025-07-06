@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/subnetsavy/subnetsavy/blob/main/A_digital_graphic_banner_for_Subnet_Savy.png" alt="Subnet Savy Banner" />
+  <img src="https://github.com/subnetsavy/subnetsavy/blob/main/gitbanner.png" alt="Subnet Savy Banner" />
 </p>
+
 # 👋 Hi, I’m Mike | Subnet Savy 🚀  
 
 Welcome to my corner of GitHub! I’m a DevOps engineer, homelab enthusiast, and the creator of [Subnet Savy](https://subnetsavy.com)—a site dedicated to helping developers and infrastructure pros build powerful Kubernetes clusters, secure networks with Tailscale, and level up their cloud skills.  
